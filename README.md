@@ -1,83 +1,122 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ADF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Naeem+Anjum;Full+Stack+Developer" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">A passionate developer crafting digital experiences from Pakistan 🚀</h3>
-
-<br/>
+[![Header](https://raw.githubusercontent.com/thisnaeem/thisnaeem/main/assets/github-header-image.png)](https://yourwebsite.com)
 
 <div align="center">
-    
-🌱 Currently mastering **React Native**
-
-✍️ Tech writer on [Medium](https://medium.com/@thisnaeem)
-
-💡 Let's talk about **Python, JavaScript, NextJS**
-
-📮 Reach me at [naeemanjum076@gmail.com](mailto:naeemanjum076@gmail.com)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&weight=700&size=30&duration=4000&pause=1000&color=6F44FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Native+Engineer;Technical+Writer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,nextjs,aws" /><br/>
-    <img src="https://skillicons.dev/icons?i=firebase,docker,postgresql,mysql,mongodb,html" />
+<!-- Profile Views Counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=thisnaeem&label=Profile%20Views&color=6F44FF&style=for-the-badge" alt="Profile Views">
 </p>
 
-<br/>
+<!-- About Me Section -->
+## 🚀 About Me
+> A passionate Full Stack Developer from Pakistan, turning coffee into code and dreams into digital reality.
 
-<h2 align="center">🏆 My Stats</h2>
+```javascript
+const naeem = {
+    pronouns: "he/him",
+    code: ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
+    currentFocus: "React Native Development",
+    askMeAbout: ["web dev", "tech", "app dev", "writing"],
+    technologies: {
+        mobile: ["React Native"],
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Material UI", "Styled Components"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "FastAPI"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        cloud: ["AWS", "Firebase", "GCP"],
+        tools: ["Docker", "Git", "Postman"]
+    },
+    architecture: ["Microservices", "Progressive Web Apps", "Single Page Apps"],
+    currentLearning: "Advanced React Native Patterns and Animations"
+};
+```
 
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ Technology Arsenal</h2>
 <p align="center">
-    <img src="https://github-stats-alpha.vercel.app/api?username=thisnaeem&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Stats">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nextjs,nodejs,express,aws,firebase,docker,postgres,mongo,redis,git&perline=7" />
+  </a>
 </p>
 
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=thisnaeem&theme=tokyonight-duo&hide_border=true&ring=5235D6&fire=D64C08&currStreakLabel=5235D6" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thisnaeem&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisnaeem&theme=aura&hide_border=true&background=0D1117" />
 </p>
 
-<br/>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisnaeem&bg_color=0D1117&color=6F44FF&line=6F44FF&point=FFFFFF&hide_border=true" />
 
-<h2 align="center">🌐 Connect With Me</h2>
-
+<!-- Latest Blog Posts -->
+<h2 align="center">📝 Latest Blog Posts</h2>
 <p align="center">
-    <a href="https://twitter.com/thisnaeem">
-        <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>&nbsp;&nbsp;
-    <a href="https://medium.com/@thisnaeem">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>&nbsp;&nbsp;
-    <a href="https://instagram.com/thisnaeem">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>&nbsp;&nbsp;
-    <a href="https://youtube.com/thisnaeem">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
+  <a href="https://medium.com/@thisnaeem" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-Follow%20My%20Blog-black?style=for-the-badge&logo=medium"/>
+  </a>
 </p>
 
-<br/>
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [Your Latest Blog Post Title](https://yourbloglink.com)
+- 💡 [Another Blog Post Title](https://yourbloglink.com)
+- 📱 [One More Blog Post](https://yourbloglink.com)
+<!-- BLOG-POST-LIST:END -->
 
+<!-- Connect With Me -->
+<h2 align="center">🤝 Let's Connect</h2>
+<p align="center">
+  <a href="mailto:naeemanjum076@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@thisnaeem">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Support Section -->
 <h2 align="center">☕ Support My Work</h2>
-
 <p align="center">
-    <a href="https://www.buymeacoffee.com/thisnaeem">
-        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=yourusername&button_colour=5235D6&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy Me a Coffee" />
-    </a>
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-gradient.png" alt="Buy Me A Coffee" height="60px" width="217px" />
+  </a>
 </p>
 
-<br/>
-
-<h2 align="center">📊 Contribution Graph</h2>
-
+<!-- Current Status -->
+<h2 align="center">📈 Current Status</h2>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisnaeem&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph">
+  <b>🔭 Currently working on:</b> React Native Projects<br>
+  <b>🌱 Learning:</b> Advanced Animation Patterns<br>
+  <b>👯 Looking to collaborate on:</b> Open Source Projects<br>
+  <b>💬 Ask me about:</b> JavaScript, React, Next.js<br>
+  <b>📫 How to reach me:</b> naeemanjum076@gmail.com
 </p>
 
-<br/>
-
+<!-- Trophies -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=thisnaeem&theme=algolia&no-frame=true&no-bg=true&row=1" />
 </p>
+
+<!-- Fun Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site Reliability Engineer" width="50">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" width="50">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" width="50"><br>
+  <i>Happy Coding!</i> 😊
+</p>
+
+<!-- Wave Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
