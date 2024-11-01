@@ -1,100 +1,122 @@
 <img width="100%" src="./github-header-image.png" alt="cover" />
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F44FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Naeem+Anjum;Full+Stack+Developer+from+Pakistan;React+Native+Engineer;Technical+Writer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&weight=700&size=30&duration=4000&pause=1000&color=6F44FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Native+Engineer;Technical+Writer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![Medium](https://img.shields.io/badge/Medium-@thisnaeem-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thisnaeem)
-  [![Gmail](https://img.shields.io/badge/Gmail-naeemanjum076-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemanjum076@gmail.com)
-  [![GitHub followers](https://img.shields.io/github/followers/thisnaeem?logo=github&style=for-the-badge)](https://github.com/thisnaeem)
-
-</div>
-
-<div align="center">
-  <h2>💫 About Me</h2>
-  <p>I'm a Full Stack Developer passionate about creating exceptional digital experiences</p>
-</div>
-
-<div align="center">
-  <img height="40" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg">
-  <img height="40" src="https://user-images.githubusercontent.com/60597290/151964895-940ff8e0-5326-4c47-a1e1-0474fc1f206a.svg">
-  <img height="40" src="https://user-images.githubusercontent.com/60597290/151965786-f12c6be6-24e2-4624-93bc-cc5facdef275.svg">
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> My Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,nextjs,nodejs,express" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,firebase,docker,postgresql,mongodb,redis,git" />
-</div>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=thisnaeem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=thisnaeem&theme=tokyonight-duo&hide_border=true&background=0D1117" />
+<!-- Profile Views Counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=thisnaeem&label=Profile%20Views&color=6F44FF&style=for-the-badge" alt="Profile Views">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisnaeem&custom_title=thisnaeem's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="thisnaeem's Graph" />
+<!-- About Me Section -->
+## 🚀 About Me
+> A passionate Full Stack Developer from Pakistan, turning coffee into code and dreams into digital reality.
 
-## 💻 Current Focus
-
-```typescript
-const thisnaeem = {
-    currentlyLearning: "React Native",
-    askMeAbout: ["Python", "JavaScript", "NextJS"],
+```javascript
+const naeem = {
+    pronouns: "he/him",
+    code: ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
+    currentFocus: "React Native Development",
+    askMeAbout: ["web dev", "tech", "app dev", "writing"],
     technologies: {
         mobile: ["React Native"],
-        frontend: ["React", "Next.js", "TypeScript"],
-        backend: ["Node.js", "Python", "FastAPI"],
-        database: ["MongoDB", "PostgreSQL", "MySQL"],
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Material UI", "Styled Components"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "FastAPI"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
         cloud: ["AWS", "Firebase", "GCP"],
-        others: ["Docker", "CI/CD", "Microservices"]
+        tools: ["Docker", "Git", "Postman"]
     },
-    architecture: ["Serverless", "Microservices", "Progressive Web Apps"],
-    currentProject: "Building awesome mobile experiences"
+    architecture: ["Microservices", "Progressive Web Apps", "Single Page Apps"],
+    currentLearning: "Advanced React Native Patterns and Animations"
 };
 ```
 
-## 🌟 My Latest Articles
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ Technology Arsenal</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nextjs,nodejs,express,aws,firebase,docker,postgres,mongo,redis,git&perline=7" />
+  </a>
+</p>
+
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Statistics</h2>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thisnaeem&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisnaeem&theme=aura&hide_border=true&background=0D1117" />
+</p>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisnaeem&bg_color=0D1117&color=6F44FF&line=6F44FF&point=FFFFFF&hide_border=true" />
+
+<!-- Latest Blog Posts -->
+<h2 align="center">📝 Latest Blog Posts</h2>
+<p align="center">
+  <a href="https://medium.com/@thisnaeem" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-Follow%20My%20Blog-black?style=for-the-badge&logo=medium"/>
+  </a>
+</p>
+
 <!-- BLOG-POST-LIST:START -->
-- [Article 1](https://medium.com/@thisnaeem)
-- [Article 2](https://medium.com/@thisnaeem)
-- [Article 3](https://medium.com/@thisnaeem)
+- 🚀 [Your Latest Blog Post Title](https://yourbloglink.com)
+- 💡 [Another Blog Post Title](https://yourbloglink.com)
+- 📱 [One More Blog Post](https://yourbloglink.com)
 <!-- BLOG-POST-LIST:END -->
 
-## 🤝 Connect With Me
-
-<div align="center">
+<!-- Connect With Me -->
+<h2 align="center">🤝 Let's Connect</h2>
+<p align="center">
   <a href="mailto:naeemanjum076@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://medium.com/@thisnaeem">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://github.com/thisnaeem">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+</p>
 
-<div align="center">
-  <h2>🏆 GitHub Profile Trophy</h2>
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=thisnaeem&row=1&theme=algolia&no-frame=true&no-bg=true" />
-</div>
+<!-- Support Section -->
+<h2 align="center">☕ Support My Work</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-gradient.png" alt="Buy Me A Coffee" height="60px" width="217px" />
+  </a>
+</p>
 
-## 📈 Contribution Graph
+<!-- Current Status -->
+<h2 align="center">📈 Current Status</h2>
+<p align="center">
+  <b>🔭 Currently working on:</b> React Native Projects<br>
+  <b>🌱 Learning:</b> Advanced Animation Patterns<br>
+  <b>👯 Looking to collaborate on:</b> Open Source Projects<br>
+  <b>💬 Ask me about:</b> JavaScript, React, Next.js<br>
+  <b>📫 How to reach me:</b> naeemanjum076@gmail.com
+</p>
 
-<img alt="thisnaeem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thisnaeem&theme=tokyo-night&hide_border=true&height=300" />
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thisnaeem&theme=algolia&no-frame=true&no-bg=true&row=1" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</div>
+<!-- Fun Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site Reliability Engineer" width="50">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" width="50">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" width="50"><br>
+  <i>Happy Coding!</i> 😊
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thisnaeem&style=for-the-badge&color=7F3FBF" alt="Profile Views" />
-</div>
+<!-- Wave Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
