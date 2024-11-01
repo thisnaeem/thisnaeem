@@ -11,10 +11,10 @@
 - 📫 How to reach me: [naeemanjum076@gmail.com](mailto:naeemanjum076@gmail.com)
 
 ## Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thisnaeem)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisnaeem)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thisnaeem)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/yourusername)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/thisnaeem)
 
 ## Languages and Tools
 <p align="left">
@@ -39,12 +39,7 @@
 
 ## Support Me
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://www.buymeacoffee.com/thisnaeem" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
   </a>
 </p>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thisnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
