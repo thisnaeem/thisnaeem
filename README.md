@@ -1,45 +1,83 @@
-# Hi 👋, I'm Naeem Anjum 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ADF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Naeem+Anjum;Full+Stack+Developer" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">A passionate developer crafting digital experiences from Pakistan 🚀</h3>
+
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=A+Passionate+Full+Stack+Developer;From+Pakistan" alt="Typing SVG" />
+    
+🌱 Currently mastering **React Native**
+
+✍️ Tech writer on [Medium](https://medium.com/@thisnaeem)
+
+💡 Let's talk about **Python, JavaScript, NextJS**
+
+📮 Reach me at [naeemanjum076@gmail.com](mailto:naeemanjum076@gmail.com)
+
 </div>
 
-## About Me
-- 🌱 Currently exploring and learning **React Native**
-- 📝 I regularly write articles on [Medium](https://medium.com/@thisnaeem)
-- 💬 Ask me about **Python, JavaScript, NextJS**
-- 📫 How to reach me: [naeemanjum076@gmail.com](mailto:naeemanjum076@gmail.com)
+<br/>
 
-## Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thisnaeem)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisnaeem)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thisnaeem)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/thisnaeem)
+<h2 align="center">⚡ Tech Stack</h2>
 
-## Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,nextjs,aws" /><br/>
+    <img src="https://skillicons.dev/icons?i=firebase,docker,postgresql,mysql,mongodb,html" />
 </p>
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisnaeem&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisnaeem&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+<br/>
 
-## Support Me
+<h2 align="center">🏆 My Stats</h2>
+
 <p align="center">
-  <a href="https://www.buymeacoffee.com/thisnaeem" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
-  </a>
+    <img src="https://github-stats-alpha.vercel.app/api?username=thisnaeem&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Stats">
+</p>
+
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=thisnaeem&theme=tokyonight-duo&hide_border=true&ring=5235D6&fire=D64C08&currStreakLabel=5235D6" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+    <a href="https://twitter.com/yourusername">
+        <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>&nbsp;&nbsp;
+    <a href="https://medium.com/@thisnaeem">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>&nbsp;&nbsp;
+    <a href="https://instagram.com/yourusername">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>&nbsp;&nbsp;
+    <a href="https://youtube.com/yourusername">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+</p>
+
+<br/>
+
+<h2 align="center">☕ Support My Work</h2>
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/yourusername">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=yourusername&button_colour=5235D6&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy Me a Coffee" />
+    </a>
+</p>
+
+<br/>
+
+<h2 align="center">📊 Contribution Graph</h2>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisnaeem&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph">
+</p>
+
+<br/>
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </p>
