@@ -56,19 +56,6 @@ const naeem = {
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisnaeem&bg_color=0D1117&color=6F44FF&line=6F44FF&point=FFFFFF&hide_border=true" />
 
-<!-- Latest Blog Posts -->
-<h2 align="center">📝 Latest Blog Posts</h2>
-<p align="center">
-  <a href="https://medium.com/@thisnaeem" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-Follow%20My%20Blog-black?style=for-the-badge&logo=medium"/>
-  </a>
-</p>
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Your Latest Blog Post Title](https://yourbloglink.com)
-- 💡 [Another Blog Post Title](https://yourbloglink.com)
-- 📱 [One More Blog Post](https://yourbloglink.com)
-<!-- BLOG-POST-LIST:END -->
 
 <!-- Connect With Me -->
 <h2 align="center">🤝 Let's Connect</h2>
