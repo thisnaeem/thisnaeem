@@ -87,13 +87,6 @@ const naeem = {
   </a>
 </p>
 
-<!-- Support Section -->
-<h2 align="center">☕ Support My Work</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-gradient.png" alt="Buy Me A Coffee" height="60px" width="217px" />
-  </a>
-</p>
 
 <!-- Current Status -->
 <h2 align="center">📈 Current Status</h2>
@@ -105,18 +98,6 @@ const naeem = {
   <b>📫 How to reach me:</b> naeemanjum076@gmail.com
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thisnaeem&theme=algolia&no-frame=true&no-bg=true&row=1" />
-</p>
-
-<!-- Fun Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site Reliability Engineer" width="50">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" width="50">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" width="50"><br>
-  <i>Happy Coding!</i> 😊
-</p>
 
 <!-- Wave Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
