@@ -53,9 +53,6 @@ const naeem = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisnaeem&theme=aura&hide_border=true&background=0D1117" />
 </p>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisnaeem&bg_color=0D1117&color=6F44FF&line=6F44FF&point=FFFFFF&hide_border=true" />
-
 
 <!-- Connect With Me -->
 <h2 align="center">🤝 Let's Connect</h2>
