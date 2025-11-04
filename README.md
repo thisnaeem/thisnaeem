@@ -1,13 +1,30 @@
-<img width="100%" src="./github-header-image.png" alt="cover" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&weight=700&size=30&duration=4000&pause=1000&color=6F44FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Native+Engineer;Technical+Writer;Open+Source+Contributor" alt="Typing SVG" />
+  
+  <!-- Custom Banner Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Waseem%20Anjum&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" alt="Welcome Banner"/>
+  
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+
+  <!-- Social Badges -->
+  <div>
+    <a href="https://www.linkedin.com/in/thisnaeem" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>&nbsp;
+    <a href="https://twitter.com/thisnaeem" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>&nbsp;
+    <a href="mailto:naeemanjum076@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>&nbsp;
+    <a href="https://github.com/fabwaseem" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=thisnaeem&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+    </a>
+  </div>
 </div>
 
-<!-- Profile Views Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=thisnaeem&label=Profile%20Views&color=6F44FF&style=for-the-badge" alt="Profile Views">
-</p>
 
 <!-- About Me Section -->
 ## 🚀 About Me
