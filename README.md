@@ -119,16 +119,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisnaeem&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
 
-<!-- GitHub Streak Stats -->
-<h2>🔥 Streak Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisnaeem&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<!-- GitHub Trophies -->
-<h2>🏆 GitHub Trophies</h2>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thisnaeem&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
