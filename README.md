@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Custom Banner Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Waseem%20Anjum&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Naeem%20Anjum&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" alt="Welcome Banner"/>
   
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
@@ -89,15 +89,48 @@ const naeem = {
 </p>
 
 
-<!-- Current Status -->
-<h2 align="center">📈 Current Status</h2>
-<p align="center">
-  <b>🔭 Currently working on:</b> React Native Projects<br>
-  <b>🌱 Learning:</b> Advanced Animation Patterns<br>
-  <b>👯 Looking to collaborate on:</b> Open Source Projects<br>
-  <b>💬 Ask me about:</b> JavaScript, React, Next.js<br>
-  <b>📫 How to reach me:</b> naeemanjum076@gmail.com
-</p>
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=fabwaseem&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabwaseem&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabwaseem&theme=tokyonight" width="31%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabwaseem&theme=tokyonight" width="31%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabwaseem&theme=tokyonight&utcOffset=8" width="31%" />
+</div>
+
+<!-- Activity Graph -->
+<h2>📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabwaseem&theme=react-dark&hide_border=true&area=true" width="100%">
+</div>
+
+<!-- GitHub Streak Stats -->
+<h2>🔥 Streak Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabwaseem&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<!-- GitHub Trophies -->
+<h2>🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fabwaseem&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
 
 
 <!-- Wave Animation -->
